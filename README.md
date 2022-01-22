@@ -17,4 +17,6 @@
 - THEN a password is generated that matches the selected criteria
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
-(./Assets/images/Password-G.png)
+(./assets/images/Password-G.png)
+![Password G](https://user-images.githubusercontent.com/95892453/150653762-c920f5ce-0c2e-410e-b7cd-8d22fdb08bc2.PNG)
+<a href="doc:introduction" target="_blank">Password</a>
