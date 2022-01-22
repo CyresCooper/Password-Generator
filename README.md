@@ -17,6 +17,7 @@
 - THEN a password is generated that matches the selected criteria
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
-(./assets/images/Password-G.png)
 ![Password G](https://user-images.githubusercontent.com/95892453/150653762-c920f5ce-0c2e-410e-b7cd-8d22fdb08bc2.PNG)
-<a href="https://cyrescooper.github.io/Whats-My-Password--/" target="_blank">Password</a>
+<a href="https://cyrescooper.github.io/Whats-My-Password--/" target="_blank">Password Generator</a>
+## Description 
+- The Tool usage is to generate a password base of the given criteria from the user selection, I used the help from the lesson and the previor lesswork to structure this, other recources that werre utilized include StackOverflow, Youtube, and Code Academy.
